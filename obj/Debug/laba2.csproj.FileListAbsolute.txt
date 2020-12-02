@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\obj\Debug\laba2.Form1.resources
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\obj\Debug\laba2.Properties.Resources.resources
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\bin\Debug\laba2.exe.config
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\bin\Debug\laba2.exe
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\bin\Debug\laba2.pdb
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\obj\Debug\laba2.exe
+C:\Users\User\source\repos\C#\2 kurs\2\laba2\obj\Debug\laba2.pdb
